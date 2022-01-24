@@ -1,5 +1,5 @@
 # Spin-and-Win-FORTUNE
-Full HTML just copy and paste in index.html file
+# Full HTML just copy and paste in index.html file
 <!DOCTYPE html>
 <html lang="en">
 <head>
